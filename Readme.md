@@ -1,4 +1,4 @@
-[Link to live demo](#) *[(Insert your deployed link here if available)](https://codeplayerrta.netlify.app/)*
+[Link to live demo](#) *https://codeplayerrta.netlify.app/*
 
 ## Features
 
